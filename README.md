@@ -17,7 +17,7 @@ I focus on building **clean, maintainable, and production-ready backend systems*
 
 ## 🛠 Tech Stack
 **Backend**
-- .NET 7 / 8
+- .NET  8 / 9
 - C#
 - ASP.NET Core (Minimal APIs)
 - Entity Framework Core
