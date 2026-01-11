@@ -1,6 +1,6 @@
 # Hi, I'm Mehrad 👋
 
-Backend Developer specialized in **.NET**, **EF Core**, and **scalable API design**.  
+Backend Developer | ASP.NET Core | Building real-world APIs
 I focus on building **clean, maintainable, and production-ready backend systems** using modern architectural patterns.
 
 ---
